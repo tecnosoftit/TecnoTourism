@@ -5,3 +5,10 @@ D:\TecnoSoftIT\Khronos\API\ViewModel\obj\Debug\ViewModel.dll
 D:\TecnoSoftIT\Khronos\API\ViewModel\obj\Debug\ViewModel.pdb
 D:\TecnoSoftIT\Khronos\API\ViewModel\bin\Debug\Newtonsoft.Json.dll
 D:\TecnoSoftIT\Khronos\API\ViewModel\bin\Debug\Newtonsoft.Json.xml
+D:\TecnoSoftIT\TecnoTourism\TecnoTourism\API\ViewModel\bin\Debug\ViewModel.dll
+D:\TecnoSoftIT\TecnoTourism\TecnoTourism\API\ViewModel\bin\Debug\ViewModel.pdb
+D:\TecnoSoftIT\TecnoTourism\TecnoTourism\API\ViewModel\bin\Debug\Newtonsoft.Json.dll
+D:\TecnoSoftIT\TecnoTourism\TecnoTourism\API\ViewModel\bin\Debug\Newtonsoft.Json.xml
+D:\TecnoSoftIT\TecnoTourism\TecnoTourism\API\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+D:\TecnoSoftIT\TecnoTourism\TecnoTourism\API\ViewModel\obj\Debug\ViewModel.dll
+D:\TecnoSoftIT\TecnoTourism\TecnoTourism\API\ViewModel\obj\Debug\ViewModel.pdb
