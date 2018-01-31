@@ -1,0 +1,16 @@
+D:\TecnoSoftIT\Khronos\API\Services\bin\Debug\Services.dll
+D:\TecnoSoftIT\Khronos\API\Services\bin\Debug\Services.pdb
+D:\TecnoSoftIT\Khronos\API\Services\bin\Debug\Model.dll
+D:\TecnoSoftIT\Khronos\API\Services\bin\Debug\ViewModel.dll
+D:\TecnoSoftIT\Khronos\API\Services\bin\Debug\Model.pdb
+D:\TecnoSoftIT\Khronos\API\Services\bin\Debug\ViewModel.pdb
+D:\TecnoSoftIT\Khronos\API\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+D:\TecnoSoftIT\Khronos\API\Services\obj\Debug\Services.dll
+D:\TecnoSoftIT\Khronos\API\Services\obj\Debug\Services.pdb
+D:\TecnoSoftIT\Khronos\API\Services\bin\Debug\Services.dll.config
+D:\TecnoSoftIT\Khronos\API\Services\bin\Debug\EntityFramework.dll
+D:\TecnoSoftIT\Khronos\API\Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\TecnoSoftIT\Khronos\API\Services\bin\Debug\Newtonsoft.Json.dll
+D:\TecnoSoftIT\Khronos\API\Services\bin\Debug\EntityFramework.xml
+D:\TecnoSoftIT\Khronos\API\Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\TecnoSoftIT\Khronos\API\Services\bin\Debug\Newtonsoft.Json.xml
